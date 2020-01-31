@@ -1,4 +1,7 @@
 # Sample Registration Form (Material Design)
 Assignment for HCI Subject.
 
-##Test
+### Development Tools Used
+- Visual Studio Code
+- Bootrap Framework
+- Material Design Template
