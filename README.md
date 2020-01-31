@@ -1,5 +1,5 @@
-# Sample Registration Form (Material Design)
-Assignment for HCI Subject.
+# Sample Registration Form
+A small User User Interface Project Assignment for my HCI MSIT Class at ADDU. 
 
 ### Development Tools Used
 - Visual Studio Code
