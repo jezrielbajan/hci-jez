@@ -5,3 +5,5 @@ A small User User Interface Project Assignment for my HCI MSIT Class at ADDU.
 - Visual Studio Code
 - Bootrap Framework
 - Material Design Template
+
+Demo Link Here : https://jezrielbajan.github.io/hci-jez/
